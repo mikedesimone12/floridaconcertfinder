@@ -1,0 +1,44 @@
+html,body{margin:0;padding:0}
+body
+{background: #FEFEFE; 
+background-position: center;
+background-repeat: repeat;
+background-attachment: scroll;
+background-image: url(http://kojm-fm.cms.vipology.com/wp-content/uploads/sites/62/concert-background-kojm.jpg);
+font: 76% arial,sans-serif;text-align:center}
+p{margin:0 10px 10px}
+a{padding:5px; text-decoration:none; color:#000000;}
+div#header{border-style: solid;
+	opacity: 0.8;
+    border-width: 5px;
+	background-color:#5B5D5E;}
+div#header h1{ color:#EBDC13; height:80px;line-height:80px;margin:0;padding-left:10px;}
+div#container{border-style: solid;
+    border-width: 5px;
+	border-color: #000000;
+	background-color:#F5C269;
+	font-size: 13;
+    text-align:center;}
+div#content p{line-height:1.4}
+div#navigation{
+	border-style: solid;
+    border-width: 5px; background:#B9BCBD;}
+div#navigation ul{color:#FEFEFF; margin:15px 0; padding:0; list-style-type:none;}
+div#navigation li{margin-bottom:5px;}
+div#extra{border-style: solid;
+    border-width: 5px;
+	border-color: black;
+	color:#FEFEFE; background:#5B5D5E;}
+div#extra h1{color:EBDC13;}
+div#footer{background:#B9BCBD;}
+div#footer p{margin:0;padding:5px 10px}
+div#container{background: #F5C269; width:1000px;margin-left: 350}
+div#content{border-style: solid;	
+    border-width: 5px;
+	border-color: black; background:#5B5D5E; float:center; width:100%}
+div#content p{margin-right: 254;}
+div#navigation{float:left;width:200px}
+div#extra{float:left;clear:left;width:300px}
+div#footer{border-style: solid;
+    border-width: 5px;
+	border-color: black;position: relative; bottom: 0; clear:both;width:100%}
